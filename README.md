@@ -26,7 +26,7 @@ This code helps you classify different alphabets of hindi language (Devanagiri) 
 <h3>Test Acuracy ~ 92%</h3>
 test on 2001
 <h3 > Execution of program </h3>
-<p> To train the dataset run file HindiHandWrittenCharacterRecognition.py<br>
-To run code type: python3 HindiHandWrittenCharacterRecognition.py</p>
+<p> To train the dataset run file HindiHandCharacterModel.py<br>
+To run code type: python3 HindiHandCharacterModel.py</p>
 <p> Execution for writing through webcam<br>
 type: python3 WebCamRecord.py</p>
